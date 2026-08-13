@@ -64,6 +64,6 @@ nashville-housing-sql/
 
 ## Aprendizados
 
-O projeto foi utilizado como exercício prático para desenvolver familiaridade com SQL Server, principalmente com manipulação de dados, valores nulos, `JOINs`, funções de texto, CTEs e identificação de registros duplicados.
+O projeto foi utilizado como um exercício prático para desenvolver familiaridade com SQL Server, principalmente com manipulação de dados, valores nulos, `JOINs`, funções de texto, CTEs e identificação de registros duplicados.
 
 Este repositório faz parte dos meus estudos em SQL e análise de dados.
