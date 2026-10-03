@@ -8,6 +8,20 @@ Este projeto foi realizado como exercício de acompanhamento de uma aula do Alex
 
 As etapas foram reproduzidas durante o estudo para praticar e entender melhor conceitos de manipulação e transformação de dados.
 
+## Dataset
+
+O projeto utiliza o dataset **Nashville Housing**, contendo informações sobre vendas de imóveis, como endereço da propriedade, endereço do proprietário, valor de venda, data da venda e outras características relacionadas às transações.
+
+Durante a exploração e limpeza dos dados foram identificados problemas como:
+
+- valores ausentes em campos de endereço;
+- informações de endereço armazenadas em uma única coluna;
+- diferentes representações para valores categóricos;
+- registros duplicados;
+- colunas que deixaram de ser necessárias após as transformações.
+
+A partir desses problemas, foram aplicadas consultas e transformações em SQL para tornar os dados mais padronizados e adequados para análises posteriores.
+
 ## Principais etapas
 
 - Inspeção inicial dos dados
